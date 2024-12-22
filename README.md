@@ -1,2 +1,2 @@
 # maquette-html-
-ceci est ma maquette
+Le projet que je vous présente ici consiste en la création d'une maquette dans le cadre d'une évaluation en HTML et CSS. Ce projet est utile car il permet de mettre en pratique nos connaissances tout en nous incitant à effectuer des recherches et à solliciter de l'aide lorsque nous rencontrons des difficultés, ce qui a été le cas pour moi à certains moments. L'utilisateur découvrira une interface colorée, accompagnée d'images, de sons et de vidéos.
